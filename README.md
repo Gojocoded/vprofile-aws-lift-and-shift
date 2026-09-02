@@ -29,9 +29,7 @@ The VProfile application uses the following technologies:
 🏗️ AWS Architecture
 
 The application is deployed on AWS using a multi-tier architecture.
-<p align="center">
-  <img src="architecture/architecture-diagram.png" alt="VProfile AWS Lift and Shift Architecture" width="90%">
-</p>
+
  Architecture Flow
 
 ```text
